@@ -2,6 +2,8 @@
 
 This project is a Streamlit application that generates and executes SQL queries based on user input. It uses Google's Gemini model for natural language processing and FAISS for semantic search.
 
+![App Screenshot](images/p2s.png)
+
 ## Setup Instructions
 
 Follow these steps to set up and run the application:
